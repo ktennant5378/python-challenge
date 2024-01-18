@@ -1,0 +1,20 @@
+Financial Analysis
+-------------------------
+Total Months: 86
+Total: $22564198
+Average Change: $262374.3953488372
+Greatest Increase in Profits:1141840
+Greatest Decrease in Profits:-1194133
+##########################
+Ekection Results
+-------------------------
+Total Votes:369711
+-------------------------
+              Candidate Percent of Votes Total Votes
+Charles Casper Stockham           23.05%      85,213
+          Diana DeGette           73.81%     272,892
+   Raymon Anthony Doane            3.14%      11,606
+-------------------------
+And the Winner Is........
+Diana DeGette!
+-------------------------
